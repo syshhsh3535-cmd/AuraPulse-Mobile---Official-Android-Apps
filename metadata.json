@@ -1,0 +1,6 @@
+{
+  "name": "AuraPulse Mobile - Official Android Apps & Games",
+  "description": "Official Google Play developer portfolio and home for Android applications and mobile games, featuring Math Master, Glow Circuit, privacy policies, support, and AdMob verification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
